@@ -1,0 +1,1297 @@
+{
+    "https://www.zomato.com/ncr/delivery-in-south-delhi": [{
+        "name": "Berco's - If You Love Chinese",
+        "rating": "4.1",
+        "address": "B 253, Rama Market, Munirka Village, Near SBI Bank, Munirka, New Delhi",
+        "phone": "+911149506246\u202c",
+        "popularDishes": ["Juicy Chicken Drumsticks", "Noodle", "Honey Chilli Potatoes", "Soup", "Momos"],
+        "knownFor": ["Chinese", "Quick Delivery", "Excellent Food", "Good Quantity", "Portion Size", "Packing"],
+        "avgCost": "350",
+        "cuisine": ["Chinese", "Momos", "Asian"],
+        "reviewHighlights": ["Juicy Chicken Drumsticks", "Noodle", "Honey Chilli Potatoes", "Soup", "Momos", "Chinese", "Quick Delivery", "Excellent Food", "Good Quantity", "Portion Size", "Packing"]
+    }, {
+        "name": "Pizza Hut",
+        "rating": "3.7",
+        "address": "17 & 18, Corner Market, Malviya Nagar, New Delhi",
+        "phone": "+918929647587",
+        "popularDishes": ["Casual Seating Area", "Prompt Service", "Reasonable Prices", "Ambiance", "Quality", "Good Food"],
+        "knownFor": ["\u20b9800 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Pizza", "Fast Food", "Pasta", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Casual Seating Area", "Prompt Service", "Reasonable Prices", "Ambiance", "Quality", "Good Food"]
+    }, {
+        "name": "Veer Ji Chaap",
+        "rating": "3.5",
+        "address": "Shop 2, Near Community Centre, Saket, New Delhi",
+        "phone": "+919643604829",
+        "popularDishes": ["\u20b9650 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": ["Dining", "Delivery"]
+    }, {
+        "name": "Biryani Blues",
+        "rating": "4.1",
+        "address": "Building 2, Ground Floor, Corner Market, Maharishi Dayanand Marg, Malviya Nagar, New Delhi",
+        "phone": "+918010801000",
+        "popularDishes": ["Chocolate Cup", "Masala Paneer", "Chicken Tenders", "Authentic Hyderabadi Biryani", "Mirchi Ka Salan", "Paneer Biryani"],
+        "knownFor": ["Comfortable Seating Area", "Family Place", "Serving Size", "Packed on Weekends", "Customer Service", "Nice Ambience"],
+        "avgCost": "400",
+        "cuisine": ["Biryani", "Kebab", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Chocolate Cup", "Masala Paneer", "Chicken Tenders", "Authentic Hyderabadi Biryani", "Mirchi Ka Salan", "Paneer Biryani", "Comfortable Seating Area", "Family Place", "Serving Size", "Packed on Weekends", "Customer Service", "Nice Ambience"]
+    }, {
+        "name": "NIC - Natural Ice Creams",
+        "rating": "4.5",
+        "address": "Shop E137/6, Ground Floor, Gautam Nagar, Hauz Khas, New Delhi",
+        "phone": "+917827593288",
+        "popularDishes": ["\u20b9100 for one order (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Desserts"],
+        "reviewHighlights": []
+    }, {
+        "name": "La Pino'z Pizza",
+        "rating": "3.9",
+        "address": "HPCL Evergreen Service, Station Mehrauli Road, Green Park, New Delhi",
+        "phone": "+919319029187",
+        "popularDishes": ["\u20b9200 for one order (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": []
+    }, {
+        "name": "Chai Point",
+        "rating": "4.0",
+        "address": "Plot 08, Community Centre, Anupam Market, Saket, New Delhi",
+        "phone": "+911140050254",
+        "popularDishes": ["Ginger Lemon Tea", "Healthy Breakfast", "Idli Sambar", "Upma", "Poha", "Masala Chai"],
+        "knownFor": ["No Plastic Cups", "Paper Straws", "Affordable", "Staff Behaviour", "Packed on Weekends", "Friendly Staff"],
+        "avgCost": "400",
+        "cuisine": ["Tea", "Fast Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Ginger Lemon Tea", "Healthy Breakfast", "Idli Sambar", "Upma", "Poha", "Masala Chai", "No Plastic Cups", "Paper Straws", "Affordable", "Staff Behaviour", "Packed on Weekends", "Friendly Staff"]
+    }, {
+        "name": "Burger King",
+        "rating": "4.1",
+        "address": "PVR Anupam Complex, Saket, New Delhi",
+        "phone": "+911140662753",
+        "popularDishes": ["Veg Chilli Cheese", "Cheesy Chicken Fries", "Supreme Burger", "Fried Cheese", "Crispy Veg", "Crispy Chicken"],
+        "knownFor": ["Economical", "Not very Crowded", "Casual Seating Area", "Inexpensive", "Great Ambiance", "Prompt Service"],
+        "avgCost": "400",
+        "cuisine": ["Burger", "Fast Food", "Street Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Veg Chilli Cheese", "Cheesy Chicken Fries", "Supreme Burger", "Fried Cheese", "Crispy Veg", "Crispy Chicken", "Economical", "Not very Crowded", "Casual Seating Area", "Inexpensive", "Great Ambiance", "Prompt Service"]
+    }, {
+        "name": "Faasos - Wraps & Rolls",
+        "rating": "4.1",
+        "address": "AB-9A, 2nd Floor, Safdarjung Enclave Market, Hauz Khaz, Safdarjung, New Delhi",
+        "phone": "+917700020020",
+        "popularDishes": ["Customizable Food", "Elaborate Menu", "Fresh Food", "Good Quality", "Price"],
+        "knownFor": ["\u20b9200 for one order (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Rolls", "Wraps", "Fast Food"],
+        "reviewHighlights": ["Customizable Food", "Elaborate Menu", "Fresh Food", "Good Quality", "Price"]
+    }, {
+        "name": "Verma Ji Paranthe Wale",
+        "rating": "4.1",
+        "address": "F-130/A, Gautam Nagar, Yusuf Sarai, New Delhi",
+        "phone": "+919350644955",
+        "popularDishes": ["Breakfast", "Good Quantity", "Good Taste", "Good Service", "Price"],
+        "knownFor": ["\u20b9100 for one order (approx.)"],
+        "avgCost": "",
+        "cuisine": ["North Indian", "Fast Food", "Street Food", "Chinese", "Beverages"],
+        "reviewHighlights": ["Breakfast", "Good Quantity", "Good Taste", "Good Service", "Price"]
+    }, {
+        "name": "Burger Singh - Big Punjabi Burgers",
+        "rating": "4.3",
+        "address": "Building 288, Ground Floor, Satya Niketan, Moti Bagh, New Delhi",
+        "phone": "+919891055376",
+        "popularDishes": ["\u20b9150 for one order (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "American", "Desserts", "Beverages"],
+        "reviewHighlights": []
+    }, {
+        "name": "McDonald's",
+        "rating": "4.2",
+        "address": "109 & 110, Ground & 1st Floor, DLF South Square, Sarojini Nagar, New Delhi",
+        "phone": "+917838006400",
+        "popularDishes": ["Classic Burgers and Fries"],
+        "knownFor": ["Veg Pizza Mcpuff", "Mc Veggie", "Mcaloo Tikki Burger", "Happy Meal", "Peri Fries", "Burgers"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "Beverages", "Coffee"],
+        "reviewHighlights": ["Dining", "Delivery", "Veg Pizza Mcpuff", "Mc Veggie", "Mcaloo Tikki Burger", "Happy Meal", "Peri Fries", "Burgers", "Economical", "Pocket Friendly", "Great Ambiance", "Polite Staff", "Meals", "Good Place"]
+    }, {
+        "name": "Domino's Pizza",
+        "rating": "3.8",
+        "address": "S-27, Ground Floor, Main Market, Green Park, New Delhi",
+        "phone": "+911141033574",
+        "popularDishes": ["Lip Smacking Food", "Low Price", "Excellent Service", "Courteous Staff", "Good Service", "Experience"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Pizza", "Fast Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Lip Smacking Food", "Low Price", "Excellent Service", "Courteous Staff", "Good Service", "Experience"]
+    }, {
+        "name": "The Burger Club",
+        "rating": "3.9",
+        "address": "1st Floor, DLF South Square, Sarojini Nagar, New Delhi",
+        "phone": "+919560349272",
+        "popularDishes": ["Club Burger", "Spicy Chicken", "French Fries", "Chicken Burger", "Cheesy Fries", "Burgers"],
+        "knownFor": ["Cost Worthy", "Service is Great", "Behavior", "Cheap", "Good Crowd", "Seating Arrangements"],
+        "avgCost": "700",
+        "cuisine": ["Cafe", "Coffee", "Burger", "Fast Food", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Club Burger", "Spicy Chicken", "French Fries", "Chicken Burger", "Cheesy Fries", "Burgers", "Cost Worthy", "Service is Great", "Behavior", "Cheap", "Good Crowd", "Seating Arrangements"]
+    }, {
+        "name": "RollsKing",
+        "rating": "4.0",
+        "address": "65/1, Arjun Nagar, Safdarjung Enclave, Safdarjung, New Delhi",
+        "phone": "+911140525614",
+        "popularDishes": ["Welcoming Smiles", "Clean Environment", "Friendly Staff", "Family Crowd", "Prices", "Quantity"],
+        "knownFor": ["\u20b9450 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Rolls", "Wraps", "Fast Food", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Welcoming Smiles", "Clean Environment", "Friendly Staff", "Family Crowd", "Prices", "Quantity"]
+    }, {
+        "name": "BOX8 - Desi Meals",
+        "rating": "4.3",
+        "address": "F5, Ground Floor, Gautam Nagar, Gulmohar Park Road, Hauz Khas, New Delhi",
+        "phone": "+918068172526",
+        "popularDishes": ["Customizable Food", "Good Taste", "Elaborate Menu", "Fresh Food", "Good Quality", "Quantity"],
+        "knownFor": ["\u20b9500 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["North Indian", "Biryani", "Desserts"],
+        "reviewHighlights": ["Customizable Food", "Good Taste", "Elaborate Menu", "Fresh Food", "Good Quality", "Quantity"]
+    }, {
+        "name": "Beijing Street",
+        "rating": "3.8",
+        "address": "161/9, Kishan Garh, Vasant Kunj, New Delhi",
+        "phone": "+918595314871",
+        "popularDishes": ["Chicken Honey", "Vegetable Fried Wonton", "Crispy Honey Chilli Potatoes", "Veg Green Thai Curry", "Fried Rice Chicken", "Vegetable Chowmein"],
+        "knownFor": ["Cheap", "Tasting Menu", "Super Service", "Outstanding Service", "Authentic", "Lovely Food"],
+        "avgCost": "700",
+        "cuisine": ["Asian", "Chinese", "Thai", "Momos", "Sichuan", "Beverages"],
+        "reviewHighlights": ["Chicken Honey", "Vegetable Fried Wonton", "Crispy Honey Chilli Potatoes", "Veg Green Thai Curry", "Fried Rice Chicken", "Vegetable Chowmein", "Cheap", "Tasting Menu", "Super Service", "Outstanding Service", "Authentic", "Lovely Food"]
+    }, {
+        "name": "PSX - Pizza Stock Exchange",
+        "rating": "4.2",
+        "address": "Shop 9, 1st Floor, Corner Market, Malviya Nagar, New Delhi",
+        "phone": "+918882553557",
+        "popularDishes": ["\u20b91,200 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Pizza", "Pasta", "Fast Food", "Italian", "European", "Continental", "Beverages", "Sandwich"],
+        "reviewHighlights": []
+    }, {
+        "name": "KFC",
+        "rating": "3.9",
+        "address": "Shop DSS 24, 25, 26, 27, 28, 29, Ground Floor, DLF South Square, Sarojini Nagar, New Delhi",
+        "phone": "+918042754444",
+        "popularDishes": ["\u20b9400 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "Biryani", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery"]
+    }, {
+        "name": "Subway",
+        "rating": "3.8",
+        "address": "C 8, SDA Market, Opposite IIT Main Gate, SDA, New Delhi",
+        "phone": "+911146232200",
+        "popularDishes": ["Customizable submarine sandwiches and salads"],
+        "knownFor": ["Healthy Food", "Reasonable Prices", "Perfect Presentation", "Cute Packaging", "Staff", "Great Place"],
+        "avgCost": "400",
+        "cuisine": ["Healthy Food", "Fast Food", "Sandwich", "Salad", "Wraps", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Healthy Food", "Reasonable Prices", "Perfect Presentation", "Cute Packaging", "Staff", "Great Place"]
+    }, {
+        "name": "Kwality Wall\u2019s Frozen Dessert and Ice Cream Shop",
+        "rating": "4.4",
+        "address": "H-32-B, Ground Floor, Arjun Nagar, Safdarjung Enclave, Near Safdarjung, New Delhi",
+        "phone": "+919711548751",
+        "popularDishes": ["\u20b9200 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": []
+    }],
+    "https://www.zomato.com/ncr/delivery-in-north-delhi": [{
+        "name": "Kwality Wall\u2019s Frozen Dessert and Ice Cream Shop",
+        "rating": "4.4",
+        "address": "Plot 25/1, Rajapur, Pocket 24/2, Sector 9, Rohini, New Delhi",
+        "phone": "+918851444184",
+        "popularDishes": ["\u20b9200 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": []
+    }, {
+        "name": "Faasos - Wraps & Rolls",
+        "rating": "4.1",
+        "address": "Plot-8, Ground Floor, Sachdeva Tower, Sector 8, Rohini, New Delhi",
+        "phone": "+917700020020",
+        "popularDishes": ["Paneer Methi Chaman", "Veggie Wrap", "Chicken Thali", "Wraps", "Choco Lava", "Rolls"],
+        "knownFor": ["Combo", "Good Taste", "Great Taste", "Tasty", "Packing", "Flavour"],
+        "avgCost": "450",
+        "cuisine": ["Rolls", "Wraps", "Fast Food"],
+        "reviewHighlights": ["Paneer Methi Chaman", "Veggie Wrap", "Chicken Thali", "Wraps", "Choco Lava", "Rolls", "Combo", "Good Taste", "Great Taste", "Tasty", "Packing", "Flavour"]
+    }, {
+        "name": "The Burger Club",
+        "rating": "4.2",
+        "address": "Property 4, Block-C, Pocket 9, Near Metro Pillar 396, Sector-7, Rohini, New Delhi",
+        "phone": "+911143012735",
+        "popularDishes": ["Loaded Pizzas", "Choco Lava", "Onion Rings", "Burgers", "Tea", "Mojito"],
+        "knownFor": ["Everything was very Good", "Plenty of Vegetarian Options", "Unlimited Refills", "Cordial Staff", "Not very Crowded", "Cozy Ambiance"],
+        "avgCost": "700",
+        "cuisine": ["Cafe", "Coffee", "Burger", "Fast Food", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Loaded Pizzas", "Choco Lava", "Onion Rings", "Burgers", "Tea", "Mojito", "Everything was very Good", "Plenty of Vegetarian Options", "Unlimited Refills", "Cordial Staff", "Not very Crowded", "Cozy Ambiance"]
+    }, {
+        "name": "Behrouz Biryani",
+        "rating": "4.2",
+        "address": "Plot 8, Ground Floor, Sachdeva Tower, Sector 8, Pushpanjali, New Delhi",
+        "phone": "+917700050050",
+        "popularDishes": ["Mint Raita", "Chicken Tenders", "Haleem", "Paneer Biryani", "Falafel", "Briyani"],
+        "knownFor": ["Authentic Taste", "Good Packaging", "Good Quantity", "Amazing Taste", "Packing", "Flavour"],
+        "avgCost": "750",
+        "cuisine": ["Biryani", "Kebab", "Hyderabadi", "Lucknowi"],
+        "reviewHighlights": ["Mint Raita", "Chicken Tenders", "Haleem", "Paneer Biryani", "Falafel", "Briyani", "Authentic Taste", "Good Packaging", "Good Quantity", "Amazing Taste", "Packing", "Flavour"]
+    }, {
+        "name": "McDonald's",
+        "rating": "4.2",
+        "address": "2, Community Centre, B-Block, Shalimar Bagh, New Delhi",
+        "phone": "+919873162932",
+        "popularDishes": ["Classic Burgers and Fries"],
+        "knownFor": ["Plenty of Vegetarian Options", "Chirpy Crowd", "Casual Seating Area", "Economical", "Cozy Ambiance", "Good Portions"],
+        "avgCost": "400",
+        "cuisine": ["Burger", "Fast Food", "Beverages", "Coffee"],
+        "reviewHighlights": ["Dining", "Delivery", "Plenty of Vegetarian Options", "Chirpy Crowd", "Casual Seating Area", "Economical", "Cozy Ambiance", "Good Portions"]
+    }, {
+        "name": "Keventers - Milkshakes & Desserts",
+        "rating": "4.4",
+        "address": "Shop 10, Ground Floor, Unity One Mall, Sector 10, Rohini, New Delhi",
+        "phone": "+911127062774",
+        "popularDishes": ["Vibrant Flavours", "No Plastic Cups", "Paper Straws", "Cashless Payments", "Delivery Time", "Hygiene"],
+        "knownFor": ["\u20b9350 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Shake", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Vibrant Flavours", "No Plastic Cups", "Paper Straws", "Cashless Payments", "Delivery Time", "Hygiene"]
+    }, {
+        "name": "Rollsome",
+        "rating": "3.9",
+        "address": "H- A-50, 3rd Floor, Sec-7, Naharpur, Saraswati Vihar, North West Delhi, Rohini, New Delhi",
+        "phone": "+919990887373",
+        "popularDishes": ["Amazing Taste", "Price", "Worth the Money", "Delicious Food", "Great Portions", "Packaging"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Rolls", "Beverages"],
+        "reviewHighlights": ["Amazing Taste", "Price", "Worth the Money", "Delicious Food", "Great Portions", "Packaging"]
+    }, {
+        "name": "Biryani Blues",
+        "rating": "4.2",
+        "address": "Plot 10, B4/10, Ground Floor, Bawana Road, Shahabad Extension, Sector 17, Rohini, New Delhi",
+        "phone": "+918010801000",
+        "popularDishes": ["\u20b9400 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Biryani", "Kebab", "Desserts"],
+        "reviewHighlights": []
+    }, {
+        "name": "Burger Singh - Big Punjabi Burgers",
+        "rating": "4.0",
+        "address": "194, Pocket D-14, TF Block, Sector 7, Rohini, New Delhi",
+        "phone": "+918767121212",
+        "popularDishes": ["Good Wifi", "Customizable Food", "Good Taste", "Elaborate Menu", "Fresh Food", "Proper Packaging"],
+        "knownFor": ["\u20b9300 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "American", "Desserts", "Beverages"],
+        "reviewHighlights": ["Good Wifi", "Customizable Food", "Good Taste", "Elaborate Menu", "Fresh Food", "Proper Packaging"]
+    }, {
+        "name": "Pandit Ji Parantha Hut",
+        "rating": "4.2",
+        "address": "Shop 16, Plot CS/OCF 2, Baaz Mall, Sector 24, Rohini, New Delhi",
+        "phone": "+918588008900",
+        "popularDishes": ["Student Crowd", "Good Wifi", "Young Crowd", "Elaborate Menu", "Spicy", "Good Taste"],
+        "knownFor": ["\u20b9250 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["North Indian", "Street Food", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Student Crowd", "Good Wifi", "Young Crowd", "Elaborate Menu", "Spicy", "Good Taste"]
+    }, {
+        "name": "NIC - Natural Ice Creams",
+        "rating": "4.4",
+        "address": "Shop 4, Plot 10, Ground Floor, LSC 11, Metro Plaza, Sector 7, Rohini, New Delhi",
+        "phone": "+919560705600",
+        "popularDishes": ["Flavour", "Proper Packaging", "Worth the Money", "Extensive Menu", "Timely Service", "Good Quality"],
+        "knownFor": ["\u20b9200 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Desserts"],
+        "reviewHighlights": ["Flavour", "Proper Packaging", "Worth the Money", "Extensive Menu", "Timely Service", "Good Quality"]
+    }, {
+        "name": "MoonMoon - Juicy Crustwiches",
+        "rating": "4.2",
+        "address": "CSC 5, Shop 23, Near DDA Market, Sector 8, Rohini, New Delhi",
+        "phone": "+911141680062",
+        "popularDishes": ["Masala Potato Wedges", "Choco Lava", "Pockets", "Sauce", "Chicken"],
+        "knownFor": ["Fresh Food with Good Quality", "Proper Packaging", "Mouth Watering Food", "Cute Packaging", "Great Portions", "Contactless Delivery"],
+        "avgCost": "400",
+        "cuisine": ["Sandwich", "Burger", "Fast Food"],
+        "reviewHighlights": ["Masala Potato Wedges", "Choco Lava", "Pockets", "Sauce", "Chicken", "Fresh Food with Good Quality", "Proper Packaging", "Mouth Watering Food", "Cute Packaging", "Great Portions", "Contactless Delivery"]
+    }, {
+        "name": "Apni Rasoi",
+        "rating": "3.7",
+        "address": "G-7/188, Dividing Road, Sector 16, Rohini, New Delhi",
+        "phone": "+919871321388",
+        "popularDishes": ["Customizations Available", "Lip Smacking Food", "Great Recommendations", "Polite Staff", "Nice Food", "Good Service"],
+        "knownFor": ["\u20b9350 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["North Indian", "Chinese", "Fast Food"],
+        "reviewHighlights": ["Customizations Available", "Lip Smacking Food", "Great Recommendations", "Polite Staff", "Nice Food", "Good Service"]
+    }, {
+        "name": "La Pino'z Pizza",
+        "rating": "3.9",
+        "address": "Shop 9, Smart Complex, DC Chowk, Sector 9, Rohini, New Delhi",
+        "phone": "+917428799700",
+        "popularDishes": ["Excellent Variety", "Variety of Pizza", "Good Wifi", "Amazing Taste", "Fast Delivery", "Elaborate Menu"],
+        "knownFor": ["\u20b9500 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Pizza", "Italian", "Pasta", "Fast Food", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Excellent Variety", "Variety of Pizza", "Good Wifi", "Amazing Taste", "Fast Delivery", "Elaborate Menu"]
+    }, {
+        "name": "Domino's Pizza",
+        "rating": "4.1",
+        "address": "Shop 13 & 14, Ground Floor, D Mall, Plot 1B5, Rohini, New Delhi",
+        "phone": "+911141834344",
+        "popularDishes": ["\u20b9400 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Pizza", "Fast Food"],
+        "reviewHighlights": ["Dining", "Delivery"]
+    }, {
+        "name": "Pizza Hut",
+        "rating": "3.5",
+        "address": "Shop F A-7 and 8, Unitech Metro Walk, Sector 10, Rohini, New Delhi",
+        "phone": "+911147531893",
+        "popularDishes": ["Nice Place", "Food Quality", "Staff", "Ambience", "Taste"],
+        "knownFor": ["\u20b9800 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Pizza", "Fast Food", "Pasta", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Nice Place", "Food Quality", "Staff", "Ambience", "Taste"]
+    }, {
+        "name": "KFC",
+        "rating": "4.1",
+        "address": "Shop 1, 2, 8 & 10, Plot 15, District Center, Manglam Place, Block 10, Sector 3, Rohini, New Delhi",
+        "phone": "+918042754444",
+        "popularDishes": ["Fried Chicken Bucket", "Zinger Burger", "Chicken Popcorn", "Veg Burger", "Fries"],
+        "knownFor": ["Casual Seating Area", "Pocket Friendly", "Nice Crowd", "Helpful Staff", "Prompt Service", "Favorite Place"],
+        "avgCost": "400",
+        "cuisine": ["Burger", "Fast Food", "Biryani", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Fried Chicken Bucket", "Zinger Burger", "Chicken Popcorn", "Veg Burger", "Fries", "Casual Seating Area", "Pocket Friendly", "Nice Crowd", "Helpful Staff", "Prompt Service", "Favorite Place"]
+    }, {
+        "name": "Consent Cakes",
+        "rating": "4.0",
+        "address": "",
+        "phone": "",
+        "popularDishes": [],
+        "knownFor": [],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": []
+    }, {
+        "name": "RollsKing",
+        "rating": "3.9",
+        "address": "Shop G-53, Ground Floor, Aggarwal Metro Heights, PitamPura, Saraswati Vihar, Netaji Subhash Place, New Delhi",
+        "phone": "+919310023423",
+        "popularDishes": ["Chaap Roll", "Paneer Roll", "Chicken Roll", "Rolls"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Rolls", "Fast Food", "North Indian"],
+        "reviewHighlights": ["Chaap Roll", "Paneer Roll", "Chicken Roll", "Rolls"]
+    }, {
+        "name": "Burger King",
+        "rating": "4.3",
+        "address": "Shop GD-01, Ground Floor, 05-D Block, Metro Walk, Sector 10, Rohini, New Delhi",
+        "phone": "+918291082692",
+        "popularDishes": ["Cheese Whopper", "Vanilla Softy", "Chilly Cheese Burger", "Cheesy Fries", "Burgers", "Shakes"],
+        "knownFor": ["Not very Crowded", "Elegantly Decorated", "Inexpensive", "Great Ambiance", "Polite Staff", "Great Recommendations"],
+        "avgCost": "400",
+        "cuisine": ["Burger", "Fast Food", "Street Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Cheese Whopper", "Vanilla Softy", "Chilly Cheese Burger", "Cheesy Fries", "Burgers", "Shakes", "Not very Crowded", "Elegantly Decorated", "Inexpensive", "Great Ambiance", "Polite Staff", "Great Recommendations"]
+    }, {
+        "name": "Subway",
+        "rating": "3.7",
+        "address": "A-17, North Ex Mall, Rohini, New Delhi",
+        "phone": "+911127557902",
+        "popularDishes": ["Customizable submarine sandwiches and salads"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": ["Dining", "Delivery"]
+    }],
+    "https://www.zomato.com/ncr/delivery-in-east-delhi": [{
+        "name": "McDonald's",
+        "rating": "4.2",
+        "address": "A-79A, Savoy Suite, Sector 16, Noida",
+        "phone": "+919899795813",
+        "popularDishes": ["Classic Burgers and Fries"],
+        "knownFor": ["Mc Spicy Chicken", "Maharaja Mac", "Brownie Ice Cream", "Happy Meal", "Hot Coffee", "French Fries"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "Beverages", "Coffee"],
+        "reviewHighlights": ["Dining", "Delivery", "Mc Spicy Chicken", "Maharaja Mac", "Brownie Ice Cream", "Happy Meal", "Hot Coffee", "French Fries", "Bang for the Buck", "Elegantly Decorated", "Cozy Ambiance", "Good Crowd", "Parking", "Breakfast"]
+    }, {
+        "name": "Burger Singh - Big Punjabi Burgers",
+        "rating": "4.2",
+        "address": "Shop 2, Ground Floor, Mayur Vihar Phase 1, New Delhi",
+        "phone": "+918826456808",
+        "popularDishes": ["Cute Packaging", "Food Presentation", "Worth the Money", "Delicious Food", "Timely Service", "Extensive Menu"],
+        "knownFor": ["\u20b9300 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "Beverages", "Desserts"],
+        "reviewHighlights": ["Cute Packaging", "Food Presentation", "Worth the Money", "Delicious Food", "Timely Service", "Extensive Menu"]
+    }, {
+        "name": "Domino's Pizza",
+        "rating": "4.2",
+        "address": "1/1-A & 2, Anupama Arcade, Mayur Vihar Phase 1, New Delhi",
+        "phone": "+911141614710",
+        "popularDishes": ["Sweet Corn Pizza", "Spicy Chicken", "Cheese Burst", "Pizzas"],
+        "knownFor": ["Delivery Services", "Prompt Service", "Reasonable Prices", "Packaging", "Good Service", "Delicious Food"],
+        "avgCost": "400",
+        "cuisine": ["Pizza", "Fast Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Sweet Corn Pizza", "Spicy Chicken", "Cheese Burst", "Pizzas", "Delivery Services", "Prompt Service", "Reasonable Prices", "Packaging", "Good Service", "Delicious Food"]
+    }, {
+        "name": "Giani's",
+        "rating": "4.3",
+        "address": "A-13, Acharya Niketan Market, Opposite Bhagyawan CHS, Mayur Vihar Phase 1, New Delhi",
+        "phone": "+911146648242",
+        "popularDishes": ["Student Crowd", "Elaborate Menu", "Customizable Food", "Good Quality", "Fresh Food", "Quantity"],
+        "knownFor": ["\u20b9350 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Desserts", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Student Crowd", "Elaborate Menu", "Customizable Food", "Good Quality", "Fresh Food", "Quantity"]
+    }, {
+        "name": "Pizza Hut",
+        "rating": "3.7",
+        "address": "Plot 11, Ground Floor, LSC Shopping Complex, Fazalpur Mandawali, IP Extension, New Delhi",
+        "phone": "+917428599149",
+        "popularDishes": ["Good Wifi", "Student Crowd", "Young Crowd", "Customizable Food", "Elaborate Menu", "Fresh Food"],
+        "knownFor": ["\u20b9800 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Pizza", "Fast Food", "Pasta", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Good Wifi", "Student Crowd", "Young Crowd", "Customizable Food", "Elaborate Menu", "Fresh Food"]
+    }, {
+        "name": "Ayush Restaurant",
+        "rating": "3.5",
+        "address": "D36, 2nd Floor, Sector 2, Noida",
+        "phone": "+919540791681",
+        "popularDishes": ["Kadhai Paneer Thali", "Bhindi Masala", "Rajma Masala", "Boondi Raita", "Capsicum Pizza", "Special Thali"],
+        "knownFor": ["Variety of Selection", "Affordable", "Best Price", "Good Delivery", "Delicious", "Nice Service"],
+        "avgCost": "400",
+        "cuisine": ["North Indian", "Chinese", "Pizza", "Fast Food", "Bakery", "Desserts", "Beverages"],
+        "reviewHighlights": ["Kadhai Paneer Thali", "Bhindi Masala", "Rajma Masala", "Boondi Raita", "Capsicum Pizza", "Special Thali", "Variety of Selection", "Affordable", "Best Price", "Good Delivery", "Delicious", "Nice Service"]
+    }, {
+        "name": "KFC",
+        "rating": "4.1",
+        "address": "Shop G3, Multi Level Parking, Vasundhara Enclave, New Delhi",
+        "phone": "+918042754444",
+        "popularDishes": ["Good Crowd", "Comfort Food", "Great Recommendations", "Mouth Watering Food", "Food Presentation", "Timely Service"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "Biryani", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Good Crowd", "Comfort Food", "Great Recommendations", "Mouth Watering Food", "Food Presentation", "Timely Service"]
+    }, {
+        "name": "Yaara Di Chaap",
+        "rating": "3.9",
+        "address": "B-1/10, New Ashok Nagar, Vasundhara Enclave, New Delhi",
+        "phone": "+919354708435",
+        "popularDishes": ["Inexpensive", "Clean and Hygienic Place", "Best Food under Best Budget", "Delicious Taste", "Young Crowd", "Tasty"],
+        "knownFor": ["\u20b9300 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["North Indian", "Chinese", "Rolls"],
+        "reviewHighlights": ["Dining", "Delivery", "Inexpensive", "Clean and Hygienic Place", "Best Food under Best Budget", "Delicious Taste", "Young Crowd", "Tasty"]
+    }, {
+        "name": "Hamza Biryani Corner",
+        "rating": "3.5",
+        "address": "R184, Ramesh Park, Street 8, Laxmi Nagar, New Delhi",
+        "phone": "+918851151455",
+        "popularDishes": ["Seekh Kebabs", "Oreo Shake", "Tikka", "Naan", "Biryani"],
+        "knownFor": ["Spill Proof Packaging", "Contactless Delivery", "Great Portions", "Extensive Menu", "Worth the Money", "Good Taste"],
+        "avgCost": "400",
+        "cuisine": ["Biryani", "Beverages"],
+        "reviewHighlights": ["Seekh Kebabs", "Oreo Shake", "Tikka", "Naan", "Biryani", "Spill Proof Packaging", "Contactless Delivery", "Great Portions", "Extensive Menu", "Worth the Money", "Good Taste"]
+    }, {
+        "name": "Chowman",
+        "rating": "4.1",
+        "address": "Satyam Shopping Arcade, Property 33 & 34, Block-J, Sector 18, Noida",
+        "phone": "18008902150",
+        "popularDishes": ["\u20b91,000 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Chinese", "Thai", "Seafood", "Sichuan", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery"]
+    }, {
+        "name": "RollsKing",
+        "rating": "3.9",
+        "address": "Plot 3, LSC 17, CGHS, Mayur Vihar Phase 1, New Delhi",
+        "phone": "+911140687449",
+        "popularDishes": ["Elaborate Menu", "Customizable Food", "Fresh Food", "Good Quality", "Staff"],
+        "knownFor": ["\u20b9300 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Rolls", "Fast Food", "North Indian", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Elaborate Menu", "Customizable Food", "Fresh Food", "Good Quality", "Staff"]
+    }, {
+        "name": "The Burger Club",
+        "rating": "4.1",
+        "address": "E-56, Ground Floor, Main Vikas Marg, Opposite Metro Pillar 44, Laxmi Nagar, New Delhi",
+        "phone": "+919540513071",
+        "popularDishes": ["Veg Burger Patty", "Chicken Juicy Burger", "Kumara Fries", "Hazelnut Chocolate Frappe", "Mocha Cold Coffee", "Devilled Chicken"],
+        "knownFor": ["Everything was just Perfect", "Themed Decor", "Service is Great", "Ample Seating Area", "Family Place", "Supportive Staff"],
+        "avgCost": "700",
+        "cuisine": ["Cafe", "Coffee", "Burger", "Fast Food", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Veg Burger Patty", "Chicken Juicy Burger", "Kumara Fries", "Hazelnut Chocolate Frappe", "Mocha Cold Coffee", "Devilled Chicken", "Everything was just Perfect", "Themed Decor", "Service is Great", "Ample Seating Area", "Family Place", "Supportive Staff"]
+    }, {
+        "name": "Finger Licious",
+        "rating": "4.1",
+        "address": "A-72, Guru Nanak Pura, Near Laxmi Nagar Metro Station, Laxmi Nagar, New Delhi",
+        "phone": "+919999971585",
+        "popularDishes": ["Chocolate Truffle Pastry", "Pastries", "Paneer Pizza", "Cakes", "Snacks", "Starters"],
+        "knownFor": ["Staff Behavior", "Wonderful Presentation", "Contactless Delivery", "Tamper Proof Packaging", "Perfect Presentation", "Best Place"],
+        "avgCost": "500",
+        "cuisine": ["Bakery", "Desserts", "Pizza", "Burger", "Wraps", "Fast Food", "Ice Cream", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Chocolate Truffle Pastry", "Pastries", "Paneer Pizza", "Cakes", "Snacks", "Starters", "Staff Behavior", "Wonderful Presentation", "Contactless Delivery", "Tamper Proof Packaging", "Perfect Presentation", "Best Place"]
+    }, {
+        "name": "Cheesecake & Co.",
+        "rating": "4.4",
+        "address": "Plot 130, Village Naya Bans, Sector 15, Noida",
+        "phone": "+919315786385",
+        "popularDishes": ["Food Presentation", "Worth the Money", "Delicious Food", "Good Quality", "Packaging", "Taste"],
+        "knownFor": ["\u20b9500 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Bakery", "Desserts"],
+        "reviewHighlights": ["Food Presentation", "Worth the Money", "Delicious Food", "Good Quality", "Packaging", "Taste"]
+    }, {
+        "name": "MOC - The American Restaurant",
+        "rating": "4.2",
+        "address": "Shop 1, Ground Floor, 106, Gali 17, Pratap Nagar, Mayur Vihar Phase 1, New Delhi",
+        "phone": "+917838566440",
+        "popularDishes": ["Rice Bowl", "Fried Chicken", "Peri Peri Fries", "Chicken Wings", "Wrap", "Chicken Burger"],
+        "knownFor": ["Bang for the Buck", "Cute Little Place", "Great Recommendations", "Nice Food", "Combo", "Great Taste"],
+        "avgCost": "350",
+        "cuisine": ["Burger", "Fast Food", "Shake"],
+        "reviewHighlights": ["Rice Bowl", "Fried Chicken", "Peri Peri Fries", "Chicken Wings", "Wrap", "Chicken Burger", "Bang for the Buck", "Cute Little Place", "Great Recommendations", "Nice Food", "Combo", "Great Taste"]
+    }, {
+        "name": "La Pino'z Pizza",
+        "rating": "3.7",
+        "address": "G-04 C, Ground Floor, New Ashok Nagar Metro Station, Mayur Vihar Phase 1, New Delhi",
+        "phone": "+919667138351",
+        "popularDishes": ["\u20b9500 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": []
+    }, {
+        "name": "Pizza Studio",
+        "rating": "4.0",
+        "address": "Shop 29, DDA Market, Nirman Vihar, Laxmi Nagar, New Delhi",
+        "phone": "+919697578757",
+        "popularDishes": ["Double Cheese Margherita", "Kurkure Momo", "Corn Sandwich", "Kit Kat Shake", "Choco Lava Cake", "Cheese Garlic Bread"],
+        "knownFor": ["Office Crowd", "Pocket Friendly", "Casual Seating Area", "Cute Little Place", "Polite Staff", "Food Service"],
+        "avgCost": "500",
+        "cuisine": ["Pizza", "Burger", "Sandwich", "Pasta", "Momos", "Street Food", "Beverages", "Shake"],
+        "reviewHighlights": ["Dining", "Delivery", "Double Cheese Margherita", "Kurkure Momo", "Corn Sandwich", "Kit Kat Shake", "Choco Lava Cake", "Cheese Garlic Bread", "Office Crowd", "Pocket Friendly", "Casual Seating Area", "Cute Little Place", "Polite Staff", "Food Service"]
+    }, {
+        "name": "Kaka Dhaba",
+        "rating": "3.6",
+        "address": "Naya Bans Main Road, Gautam Buddha Nagar, Sector 15, Noida",
+        "phone": "+918800442344",
+        "popularDishes": ["\u20b9400 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["North Indian", "Mughlai", "Fast Food", "Beverages"],
+        "reviewHighlights": []
+    }, {
+        "name": "Ovenstory Pizza",
+        "rating": "4.3",
+        "address": "B-1/40-41, New Kond, Mayur Vihar Phase 3, New Delhi",
+        "phone": "+917738383000",
+        "popularDishes": ["\u20b9600 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Pizza", "Fast Food"],
+        "reviewHighlights": []
+    }, {
+        "name": "Burger King",
+        "rating": "4.2",
+        "address": "Unit G-32, Ground Floor, Parsvnath Mall, Akshardham, Pandav Nagar, New Delhi",
+        "phone": "+917977931971",
+        "popularDishes": ["\u20b9400 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "Street Food"],
+        "reviewHighlights": ["Dining", "Delivery"]
+    }, {
+        "name": "Kwality Wall\u2019s Frozen Dessert And Ice Cream Shop",
+        "rating": "4.4",
+        "address": "H 363, K 16, Ground Floor, Village Kotla, Mayur Vihar Phase 1, New Delhi",
+        "phone": "+917827245886",
+        "popularDishes": ["\u20b9200 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Desserts"],
+        "reviewHighlights": []
+    }],
+    "https://www.zomato.com/ncr/delivery-in-west-delhi": [{
+        "name": "Domino's Pizza",
+        "rating": "4.2",
+        "address": "J-2/20, Ground Floor, BK Dutta Market, Rajouri Garden, New Delhi",
+        "phone": "+911141446835",
+        "popularDishes": ["Cheese Burst", "Stuffed Garlic Bread", "Pizzas", "Corn"],
+        "knownFor": ["Pocket Friendly", "Polite Staff", "Manager", "Table", "Great Taste", "Nice Place"],
+        "avgCost": "400",
+        "cuisine": ["Pizza", "Fast Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Cheese Burst", "Stuffed Garlic Bread", "Pizzas", "Corn", "Pocket Friendly", "Polite Staff", "Manager", "Table", "Great Taste", "Nice Place"]
+    }, {
+        "name": "Burgrill - The Win Win Burger",
+        "rating": "4.3",
+        "address": "H 75, Major Sudesh Kumar Marg, Opposite Relaxo, Rajouri Garden, New Delhi",
+        "phone": "+918178083671",
+        "popularDishes": ["Grilled Chicken Wrap", "Mozzarella Cheese Sticks", "Peri Fries", "Chicken Burgers", "Cheese Fries", "Wraps"],
+        "knownFor": ["Good Options", "Takeaway", "Cute Packaging", "Tasty", "Good Taste", "Worth the Money"],
+        "avgCost": "450",
+        "cuisine": ["Burger", "Fast Food", "Healthy Food", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Grilled Chicken Wrap", "Mozzarella Cheese Sticks", "Peri Fries", "Chicken Burgers", "Cheese Fries", "Wraps", "Good Options", "Takeaway", "Cute Packaging", "Tasty", "Good Taste", "Worth the Money"]
+    }, {
+        "name": "McDonald's",
+        "rating": "4.2",
+        "address": "Phase 1, Industrial Area, Near PVR Mulltiplex, Naraina, New Delhi",
+        "phone": "+917838592520",
+        "popularDishes": ["Classic Burgers and Fries"],
+        "knownFor": ["Cozy Ambiance", "Low Price", "Prompt Service", "Good Service", "Great Portions", "Delicious Food"],
+        "avgCost": "400",
+        "cuisine": ["Burger", "Fast Food", "Beverages", "Coffee"],
+        "reviewHighlights": ["Dining", "Delivery", "Cozy Ambiance", "Low Price", "Prompt Service", "Good Service", "Great Portions", "Delicious Food"]
+    }, {
+        "name": "Kwality Wall\u2019s Frozen Dessert and Ice Cream Shop",
+        "rating": "4.4",
+        "address": "A 18, Vishal Market, Tagore Garden, New Delhi",
+        "phone": "+919999649060",
+        "popularDishes": ["\u20b9200 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Desserts"],
+        "reviewHighlights": []
+    }, {
+        "name": "Bakingo",
+        "rating": "4.5",
+        "address": "Shop 55, Ground Floor, Najafgarh Road, Shivaji Market, Tagore Garden, New Delhi",
+        "phone": "+917428050218",
+        "popularDishes": ["Fast Delivery", "Amazing Taste", "Tasty", "Great Taste", "Good Taste", "Great Service"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Bakery"],
+        "reviewHighlights": ["Fast Delivery", "Amazing Taste", "Tasty", "Great Taste", "Good Taste", "Great Service"]
+    }, {
+        "name": "Wendy's",
+        "rating": "3.8",
+        "address": "F84, 2nd Floor, Near Wave Cinema, Shivaji Place, Industrial Pocket, Rajouri Garden, New Delhi",
+        "phone": "+919152987642",
+        "popularDishes": ["Filling Food", "Delicious Taste", "Worth the Money", "Great Portions"],
+        "knownFor": ["\u20b9350 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "American", "Beverages"],
+        "reviewHighlights": ["Filling Food", "Delicious Taste", "Worth the Money", "Great Portions"]
+    }, {
+        "name": "Faasos - Wraps & Rolls",
+        "rating": "4.0",
+        "address": "F 84, 2nd Floor, Opposite Wave Cinema, Shivaji Place, Industrial Pocket, Rajouri Garden, New Delhi",
+        "phone": "+917700020020",
+        "popularDishes": ["Jumbo Chicken Roll", "Masala Paneer", "Veggie Wrap", "Chicken Keema", "Wraps", "Choco Lava Cake"],
+        "knownFor": ["Combo", "Great Taste", "Packing", "Good Food", "Quantity", "Price"],
+        "avgCost": "450",
+        "cuisine": ["Rolls", "Wraps", "Fast Food"],
+        "reviewHighlights": ["Jumbo Chicken Roll", "Masala Paneer", "Veggie Wrap", "Chicken Keema", "Wraps", "Choco Lava Cake", "Combo", "Great Taste", "Packing", "Good Food", "Quantity", "Price"]
+    }, {
+        "name": "Apni Rasoi",
+        "rating": "3.4",
+        "address": "C-509/10, J.J. Colony, Hastsal, Uttam Nagar, New Delhi",
+        "phone": "+919871966683",
+        "popularDishes": ["\u20b9300 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": []
+    }, {
+        "name": "Dawat E King",
+        "rating": "3.8",
+        "address": "Rz-194/4, Khasra 206, Ground Floor, Indra Park Extension Part-1, Uttam Nagar, New Delhi",
+        "phone": "+919717530732",
+        "popularDishes": ["Reasonable Prices", "Good Taste", "Spill Proof Packaging", "Timely Service", "Great Portions", "Price"],
+        "knownFor": ["\u20b9600 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["North Indian", "Chinese", "Biryani", "Momos", "Rolls", "Sichuan"],
+        "reviewHighlights": ["Reasonable Prices", "Good Taste", "Spill Proof Packaging", "Timely Service", "Great Portions", "Price"]
+    }, {
+        "name": "Hyderabadi Biryani Bhawan",
+        "rating": "3.7",
+        "address": "23 B, Ground Floor, Pusa Road, Rajinder Nagar, New Delhi",
+        "phone": "+911143526894",
+        "popularDishes": ["Best Food under Best Budget", "Affordable Prices", "Tamper Proof Packaging", "Worth the Money"],
+        "knownFor": ["\u20b9300 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Biryani", "Desserts"],
+        "reviewHighlights": ["Best Food under Best Budget", "Affordable Prices", "Tamper Proof Packaging", "Worth the Money"]
+    }, {
+        "name": "Hira Sweets",
+        "rating": "4.1",
+        "address": "A-2, Opposite Metro Pillar 329, Kirti Nagar, New Delhi",
+        "phone": "+911141633158",
+        "popularDishes": ["Nice Outlet", "Fantastic Decoration", "Clean and Hygienic Place", "Elaborate Menu", "Great Place", "Fresh Food"],
+        "knownFor": ["\u20b9500 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Mithai", "North Indian", "South Indian", "Chinese", "Street Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Nice Outlet", "Fantastic Decoration", "Clean and Hygienic Place", "Elaborate Menu", "Great Place", "Fresh Food"]
+    }, {
+        "name": "Bikkgane Biryani",
+        "rating": "3.9",
+        "address": "A4, 2nd Floor, Shivaji Enclave, DDA Market, Near Wine Shop, Rajouri Garden, New Delhi",
+        "phone": "+911147009662",
+        "popularDishes": ["Extensive range of Hyderabadi biryanis and array of tikkas", "kebabs", "and curries to choose from"],
+        "knownFor": ["Mutton Handi Biriyani", "Gobi Manchurian", "Andhra Mutton Fry", "Paneer 65", "Lemon Chicken", "Chicken 65"],
+        "avgCost": "",
+        "cuisine": ["Biryani", "North Indian", "Mughlai", "Hyderabadi", "Andhra"],
+        "reviewHighlights": ["Mutton Handi Biriyani", "Gobi Manchurian", "Andhra Mutton Fry", "Paneer 65", "Lemon Chicken", "Chicken 65", "Good Portion Size", "Best Prices", "Fast Delivery Service", "Good Packing", "Prompt Delivery", "Amazing Service"]
+    }, {
+        "name": "Biryani Blues",
+        "rating": "4.2",
+        "address": "A 44, Ground Floor, Rajouri Garden, New Delhi",
+        "phone": "+918010801000",
+        "popularDishes": ["Loved it", "Nice Taste", "Spicy", "Great Portions", "Quality"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Biryani", "Kebab", "Desserts"],
+        "reviewHighlights": ["Loved it", "Nice Taste", "Spicy", "Great Portions", "Quality"]
+    }, {
+        "name": "Burger King",
+        "rating": "4.3",
+        "address": "J-1/162, Ground Floor, Rajouri Garden, New Delhi",
+        "phone": "+911140523618",
+        "popularDishes": ["Student Crowd", "Good Wifi", "Location", "Young Crowd", "Customizable Food", "Fresh Food"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "Street Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Student Crowd", "Good Wifi", "Location", "Young Crowd", "Customizable Food", "Fresh Food"]
+    }, {
+        "name": "KFC",
+        "rating": "4.0",
+        "address": "Shop 13, Near Metro Station, Kirti Nagar, New Delhi",
+        "phone": "+918042754444",
+        "popularDishes": ["Best Food under Best Budget", "Fresh Food", "Good Quality", "Experience"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "Biryani", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Best Food under Best Budget", "Fresh Food", "Good Quality", "Experience"]
+    }, {
+        "name": "Subway",
+        "rating": "4.1",
+        "address": "J 57, Ground Floor, Frontside, Bander Wali Khui, Ramesh Nagar, Kirti Nagar, New Delhi",
+        "phone": "+919871194501",
+        "popularDishes": ["Wrap", "Salad", "Sauce", "Chicken"],
+        "knownFor": ["Large Servings", "Comforting Atmosphere", "Mouth Watering Food", "Fresh Food with Good Quality", "Best Food under Best Budget", "Delicious Taste"],
+        "avgCost": "400",
+        "cuisine": ["Healthy Food", "Fast Food", "Sandwich", "Salad", "Wraps", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Wrap", "Salad", "Sauce", "Chicken", "Large Servings", "Comforting Atmosphere", "Mouth Watering Food", "Fresh Food with Good Quality", "Best Food under Best Budget", "Delicious Taste"]
+    }, {
+        "name": "Pandit Ji Parantha Hut",
+        "rating": "4.2",
+        "address": "Shop 147, Gali 1, Dabri, Janakpuri, New Delhi",
+        "phone": "+917011009917",
+        "popularDishes": ["Sanitised Service", "Great Veg Options", "Cutlery", "Mouth Watering Food", "Best Food under Best Budget", "Delicious Taste"],
+        "knownFor": ["\u20b9250 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["North Indian", "Street Food", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Sanitised Service", "Great Veg Options", "Cutlery", "Mouth Watering Food", "Best Food under Best Budget", "Delicious Taste"]
+    }, {
+        "name": "Shere-E-Punjab",
+        "rating": "4.0",
+        "address": "H-55, Bali Nagar, Rajouri Garden, New Delhi",
+        "phone": "+919773843491",
+        "popularDishes": ["\u20b9450 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["North Indian", "Mughlai", "Biryani", "Rolls"],
+        "reviewHighlights": []
+    }, {
+        "name": "Pizza Hut",
+        "rating": "3.6",
+        "address": "J-12/3, Rajouri Garden, New Delhi",
+        "phone": "+911142316685",
+        "popularDishes": ["Tandoor Paneer Pizza", "Choco Truffle Cake", "Cheesy Garlic Bread", "Pizzas"],
+        "knownFor": ["Casual Seating Area", "Economical", "Pocket Friendly", "Prompt Service", "Polite Staff", "Manager"],
+        "avgCost": "800",
+        "cuisine": ["Pizza", "Fast Food", "Pasta", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Tandoor Paneer Pizza", "Choco Truffle Cake", "Cheesy Garlic Bread", "Pizzas", "Casual Seating Area", "Economical", "Pocket Friendly", "Prompt Service", "Polite Staff", "Manager"]
+    }, {
+        "name": "Haldiram's",
+        "rating": "4.2",
+        "address": "4-B/16, Najafgarh Road, Tilak Nagar, New Delhi",
+        "phone": "+911147685707",
+        "popularDishes": ["Aloo Poori", "Rajkachori", "Raj Kachori", "Mixed Vegetables", "Pav Bhaji", "Chole Bhature"],
+        "knownFor": ["Drive through", "Nice Crowd", "Great Ambiance", "Prompt Service", "Polite Staff", "Low Price"],
+        "avgCost": "400",
+        "cuisine": ["North Indian", "South Indian", "Chinese", "Street Food", "Fast Food", "Mithai", "Desserts", "Bakery"],
+        "reviewHighlights": ["Dining", "Delivery", "Aloo Poori", "Rajkachori", "Raj Kachori", "Mixed Vegetables", "Pav Bhaji", "Chole Bhature", "Drive through", "Nice Crowd", "Great Ambiance", "Prompt Service", "Polite Staff", "Low Price"]
+    }, {
+        "name": "RollsKing",
+        "rating": "3.7",
+        "address": "Shop 3, 26/1, Double Storey, Ashok Nagar, Jail Road, New Delhi",
+        "phone": "+911145720127",
+        "popularDishes": ["Veg Seekh Roll", "Chicken Sausages", "Bhuna Chicken", "Paneer Roll", "Rolls"],
+        "knownFor": ["Drive through", "Not very Crowded", "Economical", "Casual Seating Area", "Inexpensive", "Great Recommendations"],
+        "avgCost": "300",
+        "cuisine": ["Rolls", "Fast Food", "North Indian", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Veg Seekh Roll", "Chicken Sausages", "Bhuna Chicken", "Paneer Roll", "Rolls", "Drive through", "Not very Crowded", "Economical", "Casual Seating Area", "Inexpensive", "Great Recommendations"]
+    }, {
+        "name": "Behrouz Biryani",
+        "rating": "4.2",
+        "address": "Shop G 6-9, Plot 9-10, Anupam Commercial Complex, Opposite Jawala Heri Market, Paschim Vihar, New Delhi",
+        "phone": "+917700050050",
+        "popularDishes": ["Amazing Taste", "Flavour", "Awesome Food", "Packing", "Tasty", "Great Taste"],
+        "knownFor": ["\u20b9750 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Biryani", "Kebab", "Hyderabadi", "Lucknowi"],
+        "reviewHighlights": ["Amazing Taste", "Flavour", "Awesome Food", "Packing", "Tasty", "Great Taste"]
+    }, {
+        "name": "Good Flippin Burgers",
+        "rating": "4.3",
+        "address": "2nd & 3rd Floor, Block Z, Opposite Metro Pillar 421, Najafgarh Road, Rajouri Garden, New Delhi",
+        "phone": "+919136626112",
+        "popularDishes": ["\u20b9600 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": []
+    }, {
+        "name": "Veer Ji Malai Chaap Wale",
+        "rating": "3.9",
+        "address": "Shop 14, Old Market, Rajinder Nagar, New Delhi",
+        "phone": "+919582992199",
+        "popularDishes": ["Excellent Location", "Cute Packaging", "Elaborate Menu", "Worth the Money", "Timely Service", "Delicious Food"],
+        "knownFor": ["\u20b9500 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": ["Dining", "Delivery", "Excellent Location", "Cute Packaging", "Elaborate Menu", "Worth the Money", "Timely Service", "Delicious Food"]
+    }, {
+        "name": "La Pino'z Pizza",
+        "rating": "4.1",
+        "address": "J 13/47, Rajouri Garden, New Delhi",
+        "phone": "+918384051464",
+        "popularDishes": ["Cheese Burst Crust", "Cheesy Garlic Bread", "Panneer Butter Masala", "Choco Lava Cake", "Margherita Pizza", "Veg Pizza"],
+        "knownFor": ["Contactless Delivery", "Portion", "Proper Packaging", "Tasty", "Worth the Money", "Good Taste"],
+        "avgCost": "500",
+        "cuisine": ["Pizza", "Italian", "Pasta", "Fast Food", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Cheese Burst Crust", "Cheesy Garlic Bread", "Panneer Butter Masala", "Choco Lava Cake", "Margherita Pizza", "Veg Pizza", "Contactless Delivery", "Portion", "Proper Packaging", "Tasty", "Worth the Money", "Good Taste"]
+    }, {
+        "name": "Natural Ice Cream",
+        "rating": "4.5",
+        "address": "J 2/10, BK Dutt Market, Rajouri Garden, New Delhi",
+        "phone": "+911147050888",
+        "popularDishes": ["Natural flavour Ice Creams"],
+        "knownFor": ["Cheeku Shake", "Choco Bite", "Malai Ice Cream", "Choco Cream", "Kaju Kishmish", "Choco Almond"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Cheeku Shake", "Choco Bite", "Malai Ice Cream", "Choco Cream", "Kaju Kishmish", "Choco Almond", "Great Fragrance", "Totally Worth it", "Coffee Date", "Fancy Crowd", "More Variety", "Interior"]
+    }, {
+        "name": "NIC - Natural Ice Creams",
+        "rating": "4.5",
+        "address": "B 42/21, Double Storey, Ramesh Nagar, Near Raja Garden Chowk, Kirti Nagar, New Delhi",
+        "phone": "+918317049740",
+        "popularDishes": ["\u20b9200 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Desserts"],
+        "reviewHighlights": []
+    }, {
+        "name": "Giani's",
+        "rating": "4.4",
+        "address": "F-83, Bindra Park, Rajouri Garden, New Delhi",
+        "phone": "+911145501144",
+        "popularDishes": ["\u20b9350 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Desserts", "Beverages"],
+        "reviewHighlights": []
+    }, {
+        "name": "Hindi Festivals",
+        "rating": "4.3",
+        "address": "BG 6/13A, Ground Floor, Paschim Vihar, New Delhi",
+        "phone": "+919990363311",
+        "popularDishes": ["\u20b9300 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": []
+    }, {
+        "name": "Momo Addiction",
+        "rating": "3.9",
+        "address": "Shop 31 A, Main Market, Subhash Nagar, New Delhi",
+        "phone": "+918558869577",
+        "popularDishes": ["Hygienic Place", "Food Tastes Great", "Mouth Watering Food", "Delicious Taste", "Crowd", "Best Food under Best Budget"],
+        "knownFor": ["\u20b9350 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Chinese", "Momos", "North Indian"],
+        "reviewHighlights": ["Dining", "Delivery", "Hygienic Place", "Food Tastes Great", "Mouth Watering Food", "Delicious Taste", "Crowd", "Best Food under Best Budget"]
+    }, {
+        "name": "Tikka Junction",
+        "rating": "3.7",
+        "address": "Shop 65, 67, DDU Market, Opposite Metro Pillar 423, Rajouri Garden, New Delhi",
+        "phone": "+917291916969",
+        "popularDishes": ["Chicken Tikka Sharabiyan Da", "Chicken Methi Malai", "Steamed Chicken Momo", "Boneless Chicken", "Spicy Chicken", "Malai Tikka"],
+        "knownFor": ["Great for Birthdays", "Excellent Food", "Main Course", "Portion", "Great Taste", "Good Food"],
+        "avgCost": "600",
+        "cuisine": ["North Indian", "Mughlai", "Momos", "Biryani", "Kebab", "Chinese", "Rolls", "Afghan"],
+        "reviewHighlights": ["Chicken Tikka Sharabiyan Da", "Chicken Methi Malai", "Steamed Chicken Momo", "Boneless Chicken", "Spicy Chicken", "Malai Tikka", "Great for Birthdays", "Excellent Food", "Main Course", "Portion", "Great Taste", "Good Food"]
+    }, {
+        "name": "The Burger Club",
+        "rating": "4.1",
+        "address": "Z 9, Opposite Metro Pillar 420, Rajouri Garden, New Delhi",
+        "phone": "+911135714287",
+        "popularDishes": ["New Zealand style burger"],
+        "knownFor": ["Double Paneer Club", "Cookie Cream Shake", "Kumara Fries", "Hazelnut Mocha", "Devil Chicken", "Chocolate Drink"],
+        "avgCost": "",
+        "cuisine": ["Cafe", "Coffee", "Burger", "Fast Food", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Double Paneer Club", "Cookie Cream Shake", "Kumara Fries", "Hazelnut Mocha", "Devil Chicken", "Chocolate Drink", "Not very Crowded", "Bang for the Buck", "Service is Great and Fast", "Inexpensive", "Comfortable Seating", "Prime Location"]
+    }, {
+        "name": "Burger Singh - Big Punjabi Burgers",
+        "rating": "4.1",
+        "address": "Shop 60, 61, J Block, DDA Market, Rajouri Garden, New Delhi",
+        "phone": "+918767121212",
+        "popularDishes": ["Fantastic Decoration", "Clean and Hygienic Place", "Healthy and Delicious", "Fresh Food with Good Quality", "Delicious Taste", "Mouth Watering Food"],
+        "knownFor": ["\u20b9300 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "American", "Desserts", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Fantastic Decoration", "Clean and Hygienic Place", "Healthy and Delicious", "Fresh Food with Good Quality", "Delicious Taste", "Mouth Watering Food"]
+    }],
+    "https://www.zomato.com/ncr/delivery-in-central-delhi": [{
+        "name": "Nirula's",
+        "rating": "4.1",
+        "address": "Shop M 57, M Block, Connaught Place, New Delhi",
+        "phone": "+918448489951",
+        "popularDishes": ["Belgian Dark Chocolate", "Hot Choco Fudge", "Roasted Almonds", "Sundae", "Ice Creams", "Icecream"],
+        "knownFor": ["Good Crowd", "Favorite Place", "Great Recommendations", "Low Price", "Polite Staff", "Seating"],
+        "avgCost": "600",
+        "cuisine": ["Pizza", "Burger", "Ice Cream", "North Indian", "Fast Food", "Momos", "Sandwich", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Belgian Dark Chocolate", "Hot Choco Fudge", "Roasted Almonds", "Sundae", "Ice Creams", "Icecream", "Good Crowd", "Favorite Place", "Great Recommendations", "Low Price", "Polite Staff", "Seating"]
+    }, {
+        "name": "Keventers Ice Cream",
+        "rating": "4.2",
+        "address": "Shop 1 & 2, Ground Floor, East Patel Nagar, New Delhi",
+        "phone": "+91911142473805",
+        "popularDishes": ["\u20b9200 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Desserts", "Beverages", "Shake"],
+        "reviewHighlights": []
+    }, {
+        "name": "Delhi Darbar Dhaba",
+        "rating": "3.6",
+        "address": "Shop 10, Baird Line Market, Near Bhagat Singh Place, Gole Market, New Delhi",
+        "phone": "+919910291269",
+        "popularDishes": ["Great Seating Capacity", "Desi Vibes", "Pocket Friendly", "Contactless Delivery", "Perfect Presentation", "Timely Service"],
+        "knownFor": ["\u20b9500 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["North Indian", "Chinese", "Fast Food", "Mughlai"],
+        "reviewHighlights": ["Dining", "Delivery", "Great Seating Capacity", "Desi Vibes", "Pocket Friendly", "Contactless Delivery", "Perfect Presentation", "Timely Service"]
+    }, {
+        "name": "Burger Singh - Big Punjabi Burgers",
+        "rating": "4.2",
+        "address": "H-45, Connaught Place, New Delhi",
+        "phone": "+918767121212",
+        "popularDishes": ["Macho Burger", "Jeera Soda", "Potato Crunch", "Chicken Bbq Wings", "Keema Curry", "Spicy Fries"],
+        "knownFor": ["Casual Seating Area", "Clean Place", "Cheap", "Good Crowd", "Combos", "Cozy Place"],
+        "avgCost": "400",
+        "cuisine": ["Burger", "Momos", "Fast Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Macho Burger", "Jeera Soda", "Potato Crunch", "Chicken Bbq Wings", "Keema Curry", "Spicy Fries", "Casual Seating Area", "Clean Place", "Cheap", "Good Crowd", "Combos", "Cozy Place"]
+    }, {
+        "name": "Pizza Hut",
+        "rating": "3.6",
+        "address": "17A/54, Ground Floor, W.E.A., Tank Road, Karol Bagh, New Delhi",
+        "phone": "+918447106305",
+        "popularDishes": ["\u20b9800 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": ["Dining", "Delivery"]
+    }, {
+        "name": "Ovenstory Pizza",
+        "rating": "3.8",
+        "address": "Shop 30, Gandhi Market, Minto Road, Connaught Place, New Delhi",
+        "phone": "+917738383000",
+        "popularDishes": ["Stuffed Crust Pizza", "Molten Lava Cake", "Paneer Pizza", "Pizzas", "Cake"],
+        "knownFor": ["Delivery Time", "Contactless Delivery", "Tamper Proof Packaging", "Extensive Menu", "Packing", "Timely Service"],
+        "avgCost": "600",
+        "cuisine": ["Pizza", "Fast Food"],
+        "reviewHighlights": ["Stuffed Crust Pizza", "Molten Lava Cake", "Paneer Pizza", "Pizzas", "Cake", "Delivery Time", "Contactless Delivery", "Tamper Proof Packaging", "Extensive Menu", "Packing", "Timely Service"]
+    }, {
+        "name": "NIC - Natural Ice Creams",
+        "rating": "4.4",
+        "address": "30/3242, Ground Floor, Beadon Pura, Karol Bagh, New Delhi",
+        "phone": "+918920472046",
+        "popularDishes": ["Value for Money", "Packaging", "Timely Service", "Worth the Money", "Great Portions", "Good Quality"],
+        "knownFor": ["\u20b9200 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Desserts"],
+        "reviewHighlights": ["Value for Money", "Packaging", "Timely Service", "Worth the Money", "Great Portions", "Good Quality"]
+    }, {
+        "name": "Bakingo",
+        "rating": "4.3",
+        "address": "64, 1st Floor, Street 2, Malook Singh Marg, West Arjun Nagar, Near Metro Station, Krishna Nagar, New Delhi",
+        "phone": "+917428025530",
+        "popularDishes": ["Cup Cakes", "Fresh Cake", "Cupcakes", "Velvet Cake", "Chocolate"],
+        "knownFor": ["Amazing Taste", "Contactless Delivery", "Great Taste", "Good Taste", "Proper Packaging", "Cute Packaging"],
+        "avgCost": "400",
+        "cuisine": ["Bakery"],
+        "reviewHighlights": ["Cup Cakes", "Fresh Cake", "Cupcakes", "Velvet Cake", "Chocolate", "Amazing Taste", "Contactless Delivery", "Great Taste", "Good Taste", "Proper Packaging", "Cute Packaging"]
+    }, {
+        "name": "RollsKing",
+        "rating": "3.7",
+        "address": "Shop 132, Flyover Market, Defence Colony, New Delhi",
+        "phone": "+911140598581",
+        "popularDishes": ["Fantastic Decoration", "Served Quickly", "Healthy and Delicious", "Fresh Food with Good Quality", "Best Food under Best Budget", "Contactless Delivery"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Rolls", "Fast Food", "North Indian"],
+        "reviewHighlights": ["Dining", "Delivery", "Fantastic Decoration", "Served Quickly", "Healthy and Delicious", "Fresh Food with Good Quality", "Best Food under Best Budget", "Contactless Delivery"]
+    }, {
+        "name": "Bikkgane Biryani",
+        "rating": "4.0",
+        "address": "P-2/90, Opposite PVR Rivoli, Connaught Place, New Delhi",
+        "phone": "+918929240883",
+        "popularDishes": ["Extensive range of Hyderabadi biryanis and array of tikkas", "kebabs", "and curries to choose from"],
+        "knownFor": ["Kaju Chicken", "Tangdi Chicken", "Gulab Jamun Bomb", "Hyderabadi Chicken", "Veg Handi Biryani", "Gobi Manchurian"],
+        "avgCost": "",
+        "cuisine": ["Biryani", "North Indian", "Mughlai", "Hyderabadi", "Andhra"],
+        "reviewHighlights": ["Dining", "Delivery", "Kaju Chicken", "Tangdi Chicken", "Gulab Jamun Bomb", "Hyderabadi Chicken", "Veg Handi Biryani", "Gobi Manchurian", "Family Place", "Loved it", "Unique Menu", "Great Value", "Good Value", "Fast Delivery Service"]
+    }, {
+        "name": "Hamza Biryani Corner",
+        "rating": "3.5",
+        "address": "R184, Ramesh Park, Street 8, Laxmi Nagar, New Delhi",
+        "phone": "+918851151455",
+        "popularDishes": ["Seekh Kebabs", "Oreo Shake", "Tikka", "Naan", "Biryani"],
+        "knownFor": ["Spill Proof Packaging", "Contactless Delivery", "Great Portions", "Extensive Menu", "Worth the Money", "Good Taste"],
+        "avgCost": "400",
+        "cuisine": ["Biryani", "Beverages"],
+        "reviewHighlights": ["Seekh Kebabs", "Oreo Shake", "Tikka", "Naan", "Biryani", "Spill Proof Packaging", "Contactless Delivery", "Great Portions", "Extensive Menu", "Worth the Money", "Good Taste"]
+    }, {
+        "name": "Biryani Blues",
+        "rating": "4.1",
+        "address": "Showroom 9, Scindia House, Connaught Circus, Connaught Place, New Delhi",
+        "phone": "+918010801000",
+        "popularDishes": ["Lamb Briyani", "Chicken Nizami", "Paneer65", "Biryani Ka Badshah", "Chicken65", "Mirch Ka Salan"],
+        "knownFor": ["Gastronomical Experience", "Themed Decor", "Serving Size", "More Variety", "Prime Location", "Staff Service"],
+        "avgCost": "400",
+        "cuisine": ["Biryani", "Kebab", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Lamb Briyani", "Chicken Nizami", "Paneer65", "Biryani Ka Badshah", "Chicken65", "Mirch Ka Salan", "Gastronomical Experience", "Themed Decor", "Serving Size", "More Variety", "Prime Location", "Staff Service"]
+    }, {
+        "name": "Nazeer Foods",
+        "rating": "4.0",
+        "address": "Shop 60-61, Ground Floor, The Indian Mall, Community Center, New Friends Colony, New Delhi",
+        "phone": "+919582613754",
+        "popularDishes": ["\u20b9500 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["North Indian", "Mughlai", "Fast Food", "Rolls"],
+        "reviewHighlights": ["Dining", "Delivery"]
+    }, {
+        "name": "Hyderabadi Biryani Bhawan",
+        "rating": "3.7",
+        "address": "23 B, Ground Floor, Pusa Road, Rajinder Nagar, New Delhi",
+        "phone": "+911143526894",
+        "popularDishes": ["Best Food under Best Budget", "Affordable Prices", "Tamper Proof Packaging", "Worth the Money"],
+        "knownFor": ["\u20b9300 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Biryani", "Desserts"],
+        "reviewHighlights": ["Best Food under Best Budget", "Affordable Prices", "Tamper Proof Packaging", "Worth the Money"]
+    }, {
+        "name": "The Ruby Dhaba",
+        "rating": "3.6",
+        "address": "106, Patpargunj Road, Khureji Khas, Near SBI Bank, Geeta Colony, New Delhi",
+        "phone": "+919891672227",
+        "popularDishes": ["Pocket Friendly", "Casual Seating Area", "Great Ambiance", "Prompt Service", "Polite Staff", "Good Taste"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["North Indian"],
+        "reviewHighlights": ["Dining", "Delivery", "Pocket Friendly", "Casual Seating Area", "Great Ambiance", "Prompt Service", "Polite Staff", "Good Taste"]
+    }, {
+        "name": "Pasta Unplugged",
+        "rating": "3.9",
+        "address": "C 155, Ground Floor, Lajpat Nagar 2, New Delhi",
+        "phone": "+918076547207",
+        "popularDishes": ["Punjabi Pasta", "Loaded Fries", "Spaghetti", "Garlic Bread"],
+        "knownFor": ["Portion", "Great Portions", "Quantity", "Food", "Taste"],
+        "avgCost": "850",
+        "cuisine": [],
+        "reviewHighlights": ["Punjabi Pasta", "Loaded Fries", "Spaghetti", "Garlic Bread", "Portion", "Great Portions", "Quantity", "Food", "Taste"]
+    }, {
+        "name": "Domino's Pizza",
+        "rating": "4.1",
+        "address": "M 42, Connaught Place, New Delhi",
+        "phone": "+911146564906",
+        "popularDishes": ["Veg Extravaganza Pizza", "Deluxe Veggie Pizza", "Veggie Paradise", "Calzone Pockets", "Stuffed Garlic Bread", "Farmhouse Pizza"],
+        "knownFor": ["Chirpy Crowd", "Drive through", "Economical", "Cute Little Place", "Excellent Location", "Fair Prices"],
+        "avgCost": "400",
+        "cuisine": ["Pizza", "Fast Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Veg Extravaganza Pizza", "Deluxe Veggie Pizza", "Veggie Paradise", "Calzone Pockets", "Stuffed Garlic Bread", "Farmhouse Pizza", "Chirpy Crowd", "Drive through", "Economical", "Cute Little Place", "Excellent Location", "Fair Prices"]
+    }, {
+        "name": "Burger King",
+        "rating": "4.2",
+        "address": "Commercial Site, DMRC New Delhi Railway Station, Near Metro Gate 1, Ajmeri Gate, Paharganj, New Delhi",
+        "phone": "+919599959457",
+        "popularDishes": ["Cordial Staff", "Low Price", "Great Ambiance", "Value for Money", "Packaging", "Food"],
+        "knownFor": ["\u20b9400 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "Street Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Cordial Staff", "Low Price", "Great Ambiance", "Value for Money", "Packaging", "Food"]
+    }, {
+        "name": "The Burger Club",
+        "rating": "3.9",
+        "address": "1st Floor, DLF South Square, Sarojini Nagar, New Delhi",
+        "phone": "+919560349272",
+        "popularDishes": ["Club Burger", "Spicy Chicken", "French Fries", "Chicken Burger", "Cheesy Fries", "Burgers"],
+        "knownFor": ["Cost Worthy", "Service is Great", "Behavior", "Cheap", "Good Crowd", "Seating Arrangements"],
+        "avgCost": "700",
+        "cuisine": ["Cafe", "Coffee", "Burger", "Fast Food", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Club Burger", "Spicy Chicken", "French Fries", "Chicken Burger", "Cheesy Fries", "Burgers", "Cost Worthy", "Service is Great", "Behavior", "Cheap", "Good Crowd", "Seating Arrangements"]
+    }, {
+        "name": "Bikanervala",
+        "rating": "4.3",
+        "address": "10181, 82, Chowk Gurudwara Road, Karol Bagh, New Delhi",
+        "phone": "+911145002503",
+        "popularDishes": ["Wonderful Presentation", "Food Presentation", "Good Place", "Timely Service", "Fresh Food", "Good Quality"],
+        "knownFor": ["\u20b9450 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Mithai", "North Indian", "Chinese", "Fast Food", "Street Food", "Desserts", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Wonderful Presentation", "Food Presentation", "Good Place", "Timely Service", "Fresh Food", "Good Quality"]
+    }, {
+        "name": "La Pino'z Pizza",
+        "rating": "3.9",
+        "address": "BP -24, West Patel Nagar, New Delhi",
+        "phone": "+918527932999",
+        "popularDishes": ["\u20b9600 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Pizza", "Italian", "Pasta", "Fast Food", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery"]
+    }, {
+        "name": "Haldiram's",
+        "rating": "4.2",
+        "address": "4-B/16, Najafgarh Road, Tilak Nagar, New Delhi",
+        "phone": "+911147685707",
+        "popularDishes": ["Aloo Poori", "Rajkachori", "Raj Kachori", "Mixed Vegetables", "Pav Bhaji", "Chole Bhature"],
+        "knownFor": ["Drive through", "Nice Crowd", "Great Ambiance", "Prompt Service", "Polite Staff", "Low Price"],
+        "avgCost": "400",
+        "cuisine": ["North Indian", "South Indian", "Chinese", "Street Food", "Fast Food", "Mithai", "Desserts", "Bakery"],
+        "reviewHighlights": ["Dining", "Delivery", "Aloo Poori", "Rajkachori", "Raj Kachori", "Mixed Vegetables", "Pav Bhaji", "Chole Bhature", "Drive through", "Nice Crowd", "Great Ambiance", "Prompt Service", "Polite Staff", "Low Price"]
+    }, {
+        "name": "Behrouz Biryani",
+        "rating": "4.0",
+        "address": "Shop 30, Gandhi Market, Minto Road, Connaught Place, New Delhi",
+        "phone": "+917700050050",
+        "popularDishes": ["Paneer Subz Biryani", "Bhuna Chicken", "Gulab Jamun", "Mutton"],
+        "knownFor": ["Great Taste", "Flavour", "Packing", "Good Food", "Good Quality"],
+        "avgCost": "750",
+        "cuisine": ["Biryani", "Kebab", "Hyderabadi", "Lucknowi"],
+        "reviewHighlights": ["Paneer Subz Biryani", "Bhuna Chicken", "Gulab Jamun", "Mutton", "Great Taste", "Flavour", "Packing", "Good Food", "Good Quality"]
+    }, {
+        "name": "Wendy's",
+        "rating": "4.1",
+        "address": "9UB, Jawahar Nagar, Bungalow Road, Near Kamla Nagar, New Delhi",
+        "phone": "+919599003869",
+        "popularDishes": ["Railway Cutlet", "Spicy Burger", "Aloo Patty", "Barbeque Chicken", "Iced Tea"],
+        "knownFor": ["Nice Crowd", "Comfortable Seating", "Great Ambiance", "Combos", "Great Recommendations", "Polite Staff"],
+        "avgCost": "350",
+        "cuisine": ["Burger", "Fast Food", "American", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Railway Cutlet", "Spicy Burger", "Aloo Patty", "Barbeque Chicken", "Iced Tea", "Nice Crowd", "Comfortable Seating", "Great Ambiance", "Combos", "Great Recommendations", "Polite Staff"]
+    }, {
+        "name": "Apni Rasoi",
+        "rating": "3.8",
+        "address": "A-2, Ganesh Nagar Complex, Pandav Nagar, New Delhi",
+        "phone": "+919268142662",
+        "popularDishes": ["Paneer Kali Mirch", "Panneer Butter Masala", "Boondi Raita", "Butter Roti", "Kadhai Paneer", "Butter Naan"],
+        "knownFor": ["Drive through", "Bang for the Buck", "Best Ambience", "Good Crowd", "Inexpensive", "Great Recommendations"],
+        "avgCost": "350",
+        "cuisine": ["North Indian", "Chinese", "Fast Food"],
+        "reviewHighlights": ["Dining", "Delivery", "Paneer Kali Mirch", "Panneer Butter Masala", "Boondi Raita", "Butter Roti", "Kadhai Paneer", "Butter Naan", "Drive through", "Bang for the Buck", "Best Ambience", "Good Crowd", "Inexpensive", "Great Recommendations"]
+    }, {
+        "name": "Faasos - Wraps & Rolls",
+        "rating": "4.0",
+        "address": "Shop 30, Gandhi Market, Minto Road, Connaught Place, New Delhi",
+        "phone": "+917700020020",
+        "popularDishes": ["Veggie Wrap", "Wraps", "Biryani", "Rice", "Chicken"],
+        "knownFor": ["Fast Delivery", "Tasty", "Combo", "Tamper Proof Packaging", "Great Food", "Worth the Money"],
+        "avgCost": "450",
+        "cuisine": ["Rolls", "Wraps", "Fast Food"],
+        "reviewHighlights": ["Veggie Wrap", "Wraps", "Biryani", "Rice", "Chicken", "Fast Delivery", "Tasty", "Combo", "Tamper Proof Packaging", "Great Food", "Worth the Money"]
+    }, {
+        "name": "Giani's",
+        "rating": "4.0",
+        "address": "Pandara Road Market, New Delhi",
+        "phone": "+919871730083",
+        "popularDishes": ["Extensive Menu", "Worth the Money", "Timely Service", "Delicious Food", "Value for Money", "Quality"],
+        "knownFor": ["\u20b9350 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Desserts", "Beverages"],
+        "reviewHighlights": ["Extensive Menu", "Worth the Money", "Timely Service", "Delicious Food", "Value for Money", "Quality"]
+    }, {
+        "name": "Kwality Wall\u2019s Frozen Dessert and Ice Cream Shop",
+        "rating": "4.3",
+        "address": "12/149, Mandawali Fazalpur, Preet Vihar, Geeta Colony, New Delhi",
+        "phone": "+918130208687",
+        "popularDishes": ["\u20b9200 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": []
+    }, {
+        "name": "Veer Ji Malai Chaap Wale",
+        "rating": "3.9",
+        "address": "Shop 14, Old Market, Rajinder Nagar, New Delhi",
+        "phone": "+919582992199",
+        "popularDishes": ["Excellent Location", "Cute Packaging", "Elaborate Menu", "Worth the Money", "Timely Service", "Delicious Food"],
+        "knownFor": ["\u20b9500 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": [],
+        "reviewHighlights": ["Dining", "Delivery", "Excellent Location", "Cute Packaging", "Elaborate Menu", "Worth the Money", "Timely Service", "Delicious Food"]
+    }, {
+        "name": "Keventers - Milkshakes & Desserts",
+        "rating": "4.3",
+        "address": "Shop 1 & 2, Ground Floor, Block 25/1, East Patel Nagar, New Delhi",
+        "phone": "+91911142473805",
+        "popularDishes": ["Student Crowd", "Customizable Food", "Elaborate Menu", "Great Place", "Worth the Money", "Timely Service"],
+        "knownFor": ["\u20b9350 for two people (approx.)"],
+        "avgCost": "",
+        "cuisine": ["Ice Cream", "Shake", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery", "Student Crowd", "Customizable Food", "Elaborate Menu", "Great Place", "Worth the Money", "Timely Service"]
+    }, {
+        "name": "KFC",
+        "rating": "4.0",
+        "address": "Shop - 1, Ajmeri Gate, Paharganj, New Delhi",
+        "phone": "+918042754444",
+        "popularDishes": ["\u20b9400 for two people (approx.)"],
+        "knownFor": ["Exclusive of applicable taxes and charges", "if any"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "Biryani", "Beverages", "Desserts"],
+        "reviewHighlights": ["Dining", "Delivery"]
+    }, {
+        "name": "Subway",
+        "rating": "3.7",
+        "address": "Shop 5134/4, Main Bazar, Near Rama Krishna Ashram Metro Station, Paharganj, New Delhi",
+        "phone": "+918860452434",
+        "popularDishes": ["Customizable submarine sandwiches and salads"],
+        "knownFor": ["Veg Shammi", "Aloo Patty", "Chicken Strips", "Roasted Chicken", "Salads"],
+        "avgCost": "",
+        "cuisine": ["Healthy Food", "Fast Food", "Sandwich", "Salad", "Wraps", "Beverages"],
+        "reviewHighlights": ["Dining", "Delivery", "Veg Shammi", "Aloo Patty", "Chicken Strips", "Roasted Chicken", "Salads", "Servicing", "Large Servings", "Healthy Food", "Environment", "Reasonable Prices", "Portions"]
+    }, {
+        "name": "McDonald's",
+        "rating": "4.2",
+        "address": "Plot 4, Ground Floor-1st Floor, Block 5, DB Gupta Road, Paharganj, New Delhi",
+        "phone": "+919711745783",
+        "popularDishes": ["Classic Burgers and Fries"],
+        "knownFor": ["Chicken Mcgrill Burger", "Big Spicy Chicken Wrap", "Burgers", "Fries"],
+        "avgCost": "",
+        "cuisine": ["Burger", "Fast Food", "Beverages", "Coffee"],
+        "reviewHighlights": ["Dining", "Delivery", "Chicken Mcgrill Burger", "Big Spicy Chicken Wrap", "Burgers", "Fries", "Chirpy Crowd", "Elegantly Decorated", "Inexpensive", "Pocket Friendly", "Great Ambiance", "Prompt Service"]
+    }]
+}
