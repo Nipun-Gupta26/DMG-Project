@@ -9,7 +9,6 @@ from selenium.webdriver.common.by import By
 
 import time
 
-Set up the browser
 browser = webdriver.Chrome(ChromeDriverManager().install())
 links = ['https://www.zomato.com/ncr/delivery-in-south-delhi', 'https://www.zomato.com/ncr/delivery-in-north-delhi',
          'https://www.zomato.com/ncr/delivery-in-east-delhi', 'https://www.zomato.com/ncr/delivery-in-west-delhi', 'https://www.zomato.com/ncr/delivery-in-central-delhi']
@@ -20,7 +19,7 @@ for link in links:
     restaurants[link] = set()
 
     rows = browser.find_elements(By.CSS_SELECTOR, ".sc-doWzTn")
-    while len(rows) < 3:
+    while len(rows) < 17:
         browser.execute_script(
             "window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(2)
