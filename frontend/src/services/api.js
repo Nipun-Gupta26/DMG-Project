@@ -1,6 +1,10 @@
 const apiUri = 'http://localhost:5000/';
 
-const getTags = async () => {
-    const response = await fetch(`${apiUri}colName`);
-    return response.json();
+function getTags() {
+    const response = fetch(`${apiUri}colName`);
+    return response;
+}
+
+export default {
+    getTags
 }

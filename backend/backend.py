@@ -1,10 +1,15 @@
 import numpy as np
 import pandas as pd
 from flask import jsonify, Flask, request
+from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
+CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
+
 
 @app.route("/priceIndex", methods=["POST"])
+@cross_origin()
 def restbyPriceandRating() : 
     if request.method == "POST" : 
         data = request.get_json()
@@ -27,6 +32,7 @@ def restbyPriceandRating() :
         return jsonify(dict_string)
 
 @app.route("/colName", methods=["GET"])
+@cross_origin(supports_credentials=True)
 def colName() : 
     if request.method == "GET" : 
         df = pd.read_csv('review_tags.csv')
@@ -34,6 +40,7 @@ def colName() :
         return jsonify(colName[48:57])
     
 @app.route("/filterTags", methods=["GET"])
+@cross_origin(supports_credentials=True)
 def filterTags() : 
     if request.method == "POST" : 
         df = pd.read_csv('review_tags.csv')
@@ -54,6 +61,7 @@ def filterTags() :
         return jsonify(output)
     
 @app.route("/ratingFilter", methods=["GET"])
+@cross_origin(supports_credentials=True)
 def ratingFilter() : 
     if request.method == "GET" : 
         df = pd.read_csv('review_tags.csv')

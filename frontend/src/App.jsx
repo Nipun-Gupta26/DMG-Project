@@ -1,57 +1,64 @@
 import { useEffect, useState } from 'react';
 import csvFile from './assets/updated_data.csv';
 import { Select, Option, Button } from "@material-tailwind/react";
-import {getTags} from './services/api';
+// import { getTags } from './services/api.js';
 
 function App() {
   const [csvData, setCsvData] = useState([]);
   const [csvHeaders, setCsvHeaders] = useState([]);
 
-  // useEffect(() => {
-  //   fetch(csvFile)
-  //     .then(response => response.text())
-  //     .then(text => {
-  //       const rows = text.split('\n');
-  //       const headers = rows[0].split(',');
-  //       // remove last 2 columns
-  //       headers.splice(headers.length - 2, 2);
-  //       setCsvHeaders(headers);
-  //       const data = rows.slice(1).map(row => {
-  //         if (row === '') {
-  //           return null;
-  //         }
-  //         const tempValues = row.split(',"');
-  //         // console.log(tempValues);
-  //         const Name = tempValues[0];
-  //         const tempValues2 = tempValues[1].split('",');
-  //         const Address = tempValues2[0];
-  //         const tempValues3 = tempValues2[1].split(',');
-  //         const eachRow = {};
-  //         headers.forEach((header, index) => {
-  //           if (index === 0) {
-  //             eachRow[header] = Name;
-  //           }
-  //           else if (index === 1) {
-  //             eachRow[header] = Address;
-  //           }
-  //           else {
-  //             eachRow[header] = tempValues3[index - 2];
-  //           }
-  //         });
-  //         return eachRow;
-  //       });
-  //       setCsvData(data);
-  //       // console.log(data);
-  //     });
-  // }, []);
+  useEffect(() => {
+    fetch(csvFile)
+      .then(response => response.text())
+      .then(text => {
+        const rows = text.split('\n');
+        const headers = rows[0].split(',');
+        // remove last 2 columns
+        headers.splice(headers.length - 2, 2);
+        setCsvHeaders(headers);
+        const data = rows.slice(1).map(row => {
+          if (row === '') {
+            return null;
+          }
+          const tempValues = row.split(',"');
+          // console.log(tempValues);
+          const Name = tempValues[0];
+          const tempValues2 = tempValues[1].split('",');
+          const Address = tempValues2[0];
+          const tempValues3 = tempValues2[1].split(',');
+          const eachRow = {};
+          headers.forEach((header, index) => {
+            if (index === 0) {
+              eachRow[header] = Name;
+            }
+            else if (index === 1) {
+              eachRow[header] = Address;
+            }
+            else {
+              eachRow[header] = tempValues3[index - 2];
+            }
+          });
+          return eachRow;
+        });
+        setCsvData(data);
+        // console.log(data);
+      });
+  }, []);
 
   const [tags, setTags] = useState([]);
-
+  const apiUri = 'http://localhost:5000';
   useEffect(() => {
-    getTags().then((res) => {
-      console.log(res);
-      setTags(res.data);
-    });
+    const getTagsFromApi = async () => {
+      const response = await fetch(`${apiUri}/colName`, {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
+      const data = await response.json();
+      setTags(data);
+    }
+    getTagsFromApi();
   }, []);
 
 
@@ -72,6 +79,29 @@ function App() {
     setRating(e);
     console.log(rating);
   }
+
+  const getRecommendationsByPrice = async () => {
+    const body = {
+      P: price,
+      R: rating,
+    }
+    console.log(body);
+    const response = await fetch(`${apiUri}/priceIndex`, {
+      method: 'POST',
+      // crossDomain:true,
+      // mode: 'no-cors',
+      mode: 'cors',
+      headers: {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*',
+      },
+      body: JSON.stringify(body),
+    });
+    console.log(response);
+    const data = await response.json();
+    console.log(data);
+  }
+
 
   return (
     <div className="App">
@@ -94,7 +124,7 @@ function App() {
               ))}
             </Select>
             <Select variant="outlined" label="Select Price" onChange={setPriceFilter}>
-              {priceOptions.map((item, index) => (
+              {tags.map((item, index) => (
                 <Option key={index} value={item}>
                   {item}
                 </Option>
@@ -104,8 +134,13 @@ function App() {
           <div className="flex items-center justify-between">
 
             <div className="lg:ml-40 ml-10 space-x-8">
+              <Button color="lightBlue" buttonType="filled" size="regular" rounded={false} block={false} iconOnly={false} ripple="light" onClick={getRecommendationsByPrice}>
+                Get Recommendations By Rate and price
+              </Button>
+            </div>
+            <div className="lg:ml-40 ml-10 space-x-8">
               <Button color="lightBlue" buttonType="filled" size="regular" rounded={false} block={false} iconOnly={false} ripple="light">
-                Get Recommendations
+                Get Recommendations By tags
               </Button>
             </div>
           </div>
