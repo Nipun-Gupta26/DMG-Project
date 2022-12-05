@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 from flask import jsonify, Flask, request
 
+app = Flask(__name__)
+
 @app.route("/priceIndex", methods=["POST"])
 def restbyPriceandRating() : 
     if request.method == "POST" : 
@@ -40,6 +42,8 @@ def filterTags() :
         for i in range(len(data)) : 
             if data[i] == True : 
                 df = df[df[data[i]] == True]
+                
+        df = df.sort_values(by=['Rating'], ascending=False)
             
         output = []
             
@@ -48,3 +52,20 @@ def filterTags() :
             output.append(restaurant)
         
         return jsonify(output)
+    
+@app.route("/ratingFilter", methods=["GET"])
+def ratingFilter() : 
+    if request.method == "GET" : 
+        df = pd.read_csv('review_tags.csv')
+        df = df.sort_values(by=['Rating'], ascending=False)
+        
+        output = []
+        
+        for i in range(len(df)) : 
+            restaurant = df.iloc[i].to_dict()
+            output.append(restaurant)
+        
+        return jsonify(output)
+    
+if __name__ == "__main__" : 
+    app.run(debug=True)
