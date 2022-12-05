@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import csvFile from './assets/updated_data.csv';
 import { Select, Option, Button } from "@material-tailwind/react";
+import {getTags} from './services/api';
 
 function App() {
   const [csvData, setCsvData] = useState([]);
@@ -43,6 +44,16 @@ function App() {
   //       // console.log(data);
   //     });
   // }, []);
+
+  const [tags, setTags] = useState([]);
+
+  useEffect(() => {
+    getTags().then((res) => {
+      console.log(res);
+      setTags(res.data);
+    });
+  }, []);
+
 
   const [price, setPrice] = useState('Low');
   const priceOptions = ['Low', 'Medium', 'High'];
