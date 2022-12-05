@@ -38,7 +38,8 @@ def filterTags() :
         data = request.get_json()
         
         for i in range(len(data)) : 
-            df = df[df[data[i]] == 1]
+            if data[i] == True : 
+                df = df[df[data[i]] == True]
             
         output = []
             
