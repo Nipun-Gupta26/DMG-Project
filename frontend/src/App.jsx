@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
-import csvFile from './assets/updated_data.csv';
-import { Select, Option, Button } from "@material-tailwind/react";
+import csvFile from './assets/review_tags.csv'
+import { Select, Option, Button, Checkbox } from "@material-tailwind/react";
 // import { getTags } from './services/api.js';
 
 function App() {
@@ -14,7 +14,6 @@ function App() {
         const rows = text.split('\n');
         const headers = rows[0].split(',');
         // remove last 2 columns
-        headers.splice(headers.length - 2, 2);
         setCsvHeaders(headers);
         const data = rows.slice(1).map(row => {
           if (row === '') {
@@ -80,27 +79,78 @@ function App() {
     console.log(rating);
   }
 
+
   const getRecommendationsByPrice = async () => {
-    const body = {
-      P: price,
-      R: rating,
-    }
-    console.log(body);
-    const response = await fetch(`${apiUri}/priceIndex`, {
-      method: 'POST',
-      // crossDomain:true,
-      // mode: 'no-cors',
-      mode: 'cors',
-      headers: {
-        'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': '*',
-      },
-      body: JSON.stringify(body),
+    // const body = {
+    //   P: price,
+    //   R: rating,
+    // }
+    // console.log(body);
+    // const response = await fetch(`${apiUri}/priceIndex`, {
+    //   method: 'POST',
+    //   // crossDomain:true,
+    //   // mode: 'no-cors',
+    //   mode: 'cors',
+    //   headers: {
+    //     'Content-Type': 'application/json',
+    //     'Access-Control-Allow-Origin': '*',
+    //   },
+    //   body: JSON.stringify(body),
+    // });
+    // console.log(response);
+    // const data = await response.json();
+    // console.log(data);
+    const string = rating + " Rating " + "and " + price + " Cost";
+    let newData = []
+    console.log(string);
+    csvData.forEach((row) => {
+      // console.log(row['cluster_description'].localeCompare(string));
+      if (row === null) {
+        return;
+      }
+      if (row['cluster_description'] === string) {
+        newData.push(row);
+      }
     });
-    console.log(response);
-    const data = await response.json();
-    console.log(data);
+    console.log(newData);
+    setCsvData(newData);
+
   }
+
+  const [selectedTags, setSelectedTags] = useState([]);
+
+  const updateTags = (e) => {
+    console.log(e.target.value);
+    if (selectedTags.includes(e.target.value)) {
+      setSelectedTags(selectedTags.filter(tag => tag !== e.target.value));
+    }
+    else {
+      setSelectedTags([...selectedTags, e.target.value]);
+    }
+    console.log(selectedTags);
+  }
+
+  const getRecommendationsByTags = () => {
+    let newData = [];
+    csvData.forEach((row) => {
+      if (row === null) {
+        return;
+      }
+      let flag = true;
+      selectedTags.forEach((tag) => {
+        if (row[tag] === 0) {
+          flag = false;
+        }
+      });
+      if (flag) {
+        newData.push(row);
+      }
+    });
+    console.log(newData);
+    setCsvData(newData);
+  }
+
+
 
 
   return (
@@ -125,9 +175,7 @@ function App() {
             </Select>
             <Select variant="outlined" label="Select Price" onChange={setPriceFilter}>
               {tags.map((item, index) => (
-                <Option key={index} value={item}>
-                  {item}
-                </Option>
+                <Checkbox key={index} value={item} label={item} onChange={updateTags} />
               ))}
             </Select>
           </div>
@@ -139,7 +187,7 @@ function App() {
               </Button>
             </div>
             <div className="lg:ml-40 ml-10 space-x-8">
-              <Button color="lightBlue" buttonType="filled" size="regular" rounded={false} block={false} iconOnly={false} ripple="light">
+              <Button color="lightBlue" buttonType="filled" size="regular" rounded={false} block={false} iconOnly={false} ripple="light" onClick={getRecommendationsByTags}>
                 Get Recommendations By tags
               </Button>
             </div>
@@ -151,12 +199,14 @@ function App() {
               <table className="min-w-full leading-normal">
                 <thead className='sticky top-0'>
                   <tr>
-                    {csvHeaders.map(header => (
+                    {csvHeaders.map((header, index) => (
+                      index < 5?
                       <th
                         key={header}
                         className="px-5 sticky top-0 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
                         {header}
                       </th>
+                      : null
                     ))
                     }
 
@@ -189,11 +239,14 @@ function TableRow(props) {
   return (
     <tr>
       {data && Object.keys(data).map((key, index) => (
+        index < 5 ?
         <td key={index} className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
           <p className="text-gray-900 whitespace-no-wrap">
             {data[key]}
           </p>
         </td>
+        :
+        <></>
       ))
       }
 
