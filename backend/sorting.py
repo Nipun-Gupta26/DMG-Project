@@ -55,8 +55,9 @@ def filterTags() :
     
 @app.route("/ratingFilter", methods=["GET"])
 def ratingFilter() : 
-    if request.method == "GET" : 
+    if request.method == "POST" : 
         df = pd.read_csv('review_tags.csv')
+        
         df = df.sort_values(by=['Rating'], ascending=False)
         
         output = []
