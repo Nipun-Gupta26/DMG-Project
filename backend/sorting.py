@@ -30,3 +30,20 @@ def colName() :
         df = pd.read_csv('review_tags.csv')
         colName = df.columns.tolist()
         return jsonify(colName[51:59])
+    
+@app.route("/filterTags", methods=["GET"])
+def filterTags() : 
+    if request.method == "POST" : 
+        df = pd.read_csv('review_tags.csv')
+        data = request.get_json()
+        
+        for i in range(len(data)) : 
+            df = df[df[data[i]] == 1]
+            
+        output = []
+            
+        for i in range(len(df)) : 
+            restaurant = df.iloc[i].to_dict()
+            output.append(restaurant)
+        
+        return jsonify(output)
