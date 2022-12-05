@@ -31,7 +31,7 @@ def colName() :
     if request.method == "GET" : 
         df = pd.read_csv('review_tags.csv')
         colName = df.columns.tolist()
-        return jsonify(colName[51:59])
+        return jsonify(colName[48:57])
     
 @app.route("/filterTags", methods=["GET"])
 def filterTags() : 
@@ -55,9 +55,8 @@ def filterTags() :
     
 @app.route("/ratingFilter", methods=["GET"])
 def ratingFilter() : 
-    if request.method == "POST" : 
+    if request.method == "GET" : 
         df = pd.read_csv('review_tags.csv')
-        
         df = df.sort_values(by=['Rating'], ascending=False)
         
         output = []
